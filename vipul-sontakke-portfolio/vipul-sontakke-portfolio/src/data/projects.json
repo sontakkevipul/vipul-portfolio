@@ -1,0 +1,35 @@
+[
+  {
+    "type": "repo",
+    "title": "AWS Projects",
+    "description": "A collection of AWS cloud projects demonstrating practical experience in cloud automation, security, infrastructure management, monitoring, cost optimization, and AWS administration.",
+    "media": "https://github.com/vipulsontakke",
+    "role": "Personal Project",
+    "year": "",
+    "category": "AWS",
+    "tags": ["Lambda", "EventBridge", "EC2", "RDS", "FinOps"],
+    "image": "./Asset/img/work/aws-projects.svg"
+  },
+  {
+    "type": "repo",
+    "title": "Linux Projects",
+    "description": "A collection of Linux and Bash scripting projects demonstrating system administration, automation, security, file handling, and command-line operations.",
+    "media": "https://github.com/vipulsontakke",
+    "role": "Personal Project",
+    "year": "",
+    "category": "Linux",
+    "tags": ["Input Validation", "System Monitoring", "Bash / Shell Scripting", "Command-Line Utilities", "User Authentication"],
+    "image": "./Asset/img/work/linux-projects.svg"
+  },
+  {
+    "type": "repo",
+    "title": "Python Projects",
+    "description": "A Python-based ATM management program with PIN authentication and multiple banking operations.",
+    "media": "https://github.com/vipulsontakke",
+    "role": "Personal Project",
+    "year": "",
+    "category": "Python",
+    "tags": ["Variables", "Conditions", "Input Validation", "Loops"],
+    "image": "./Asset/img/work/python-projects.svg"
+  }
+]

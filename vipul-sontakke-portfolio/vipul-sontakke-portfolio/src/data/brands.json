@@ -1,0 +1,62 @@
+[
+  {
+    "file": "aws.svg",
+    "name": "AWS"
+  },
+  {
+    "file": "terraform.svg",
+    "name": "Terraform"
+  },
+  {
+    "file": "cloudformation.svg",
+    "name": "CloudFormation"
+  },
+  {
+    "file": "python.svg",
+    "name": "Python"
+  },
+  {
+    "file": "bash.svg",
+    "name": "Bash"
+  },
+  {
+    "file": "linux.svg",
+    "name": "Linux"
+  },
+  {
+    "file": "docker.svg",
+    "name": "Docker"
+  },
+  {
+    "file": "git.svg",
+    "name": "Git"
+  },
+  {
+    "file": "cicd.svg",
+    "name": "CI/CD"
+  },
+  {
+    "file": "cloudwatch.svg",
+    "name": "CloudWatch"
+  },
+  {
+    "file": "powerbi.svg",
+    "name": "Power BI"
+  },
+  {
+    "file": "jira.svg",
+    "name": "Jira"
+  },
+  {
+    "file": "vscode.svg",
+    "name": "VS Code"
+  },
+  {
+    "file": "bedrock.svg",
+    "name": "Amazon Bedrock"
+  },
+  {
+    "file": "claude.svg",
+    "name": "Claude"
+  }
+]
